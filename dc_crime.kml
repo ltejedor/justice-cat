@@ -1,0 +1,3401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Placemark id="feat_2">
+            <name>THEFT</name>
+            <Point id="geom_0">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_1">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_2">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name>BURGLARY</name>
+            <Point id="geom_3">
+                <coordinates>-76.9823326352652,38.8504500963027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_4">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name>BURGLARY</name>
+            <Point id="geom_5">
+                <coordinates>-76.9823326352652,38.8504500963027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_6">
+                <coordinates>-77.0345993366455,38.9185415759376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_7">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name>ROBBERY</name>
+            <Point id="geom_8">
+                <coordinates>-76.9329483985462,38.8903664467587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name>BURGLARY</name>
+            <Point id="geom_9">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_10">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_11">
+                <coordinates>-76.9329483985462,38.8903664467587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name>ROBBERY</name>
+            <Point id="geom_12">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name>ROBBERY</name>
+            <Point id="geom_13">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name>BURGLARY</name>
+            <Point id="geom_14">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_15">
+                <coordinates>-77.0304025484153,38.9874893318211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name>SEX ABUSE</name>
+            <Point id="geom_16">
+                <coordinates>-77.0270638059597,38.9005800268386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name>THEFT</name>
+            <Point id="geom_17">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name>THEFT</name>
+            <Point id="geom_18">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name>ROBBERY</name>
+            <Point id="geom_19">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name>ADW</name>
+            <Point id="geom_20">
+                <coordinates>-77.0304025484153,38.9874893318211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_21">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name>THEFT</name>
+            <Point id="geom_22">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name>THEFT</name>
+            <Point id="geom_23">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_24">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_25">
+                <coordinates>-77.0345993366455,38.9185415759376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_26">
+                <coordinates>-76.9823326352652,38.8504500963027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_27">
+                <coordinates>-76.9329483985462,38.8903664467587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name>ADW</name>
+            <Point id="geom_28">
+                <coordinates>-76.9329483985462,38.8903664467587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name>THEFT</name>
+            <Point id="geom_29">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_30">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name>THEFT</name>
+            <Point id="geom_31">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_32">
+                <coordinates>-76.9823326352652,38.8504500963027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name>ROBBERY</name>
+            <Point id="geom_33">
+                <coordinates>-77.0345993366455,38.9185415759376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name>BURGLARY</name>
+            <Point id="geom_34">
+                <coordinates>-76.9823326352652,38.8504500963027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_35">
+                <coordinates>-76.9823326352652,38.8504500963027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name>THEFT</name>
+            <Point id="geom_36">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name>BURGLARY</name>
+            <Point id="geom_37">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name>THEFT</name>
+            <Point id="geom_38">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name>ADW</name>
+            <Point id="geom_39">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name>ROBBERY</name>
+            <Point id="geom_40">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_43">
+            <name>ADW</name>
+            <Point id="geom_41">
+                <coordinates>-77.0345993366455,38.9185415759376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_44">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_42">
+                <coordinates>-77.0345993366455,38.9185415759376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_45">
+            <name>THEFT</name>
+            <Point id="geom_43">
+                <coordinates>-76.9329483985462,38.8903664467587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_46">
+            <name>ADW</name>
+            <Point id="geom_44">
+                <coordinates>-76.9329483985462,38.8903664467587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_47">
+            <name>THEFT</name>
+            <Point id="geom_45">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_48">
+            <name>THEFT</name>
+            <Point id="geom_46">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_49">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_47">
+                <coordinates>-77.0345993366455,38.9185415759376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_50">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_48">
+                <coordinates>-77.0304025484153,38.9874893318211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_51">
+            <name>BURGLARY</name>
+            <Point id="geom_49">
+                <coordinates>-77.0304025484153,38.9874893318211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_52">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_50">
+                <coordinates>-76.9329483985462,38.8903664467587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_53">
+            <name>BURGLARY</name>
+            <Point id="geom_51">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_54">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_52">
+                <coordinates>-77.0270638059597,38.9005800268386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_55">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_53">
+                <coordinates>-76.9329483985462,38.8903664467587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_56">
+            <name>THEFT</name>
+            <Point id="geom_54">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_57">
+            <name>BURGLARY</name>
+            <Point id="geom_55">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_58">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_56">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_59">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_57">
+                <coordinates>-76.9329483985462,38.8903664467587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_60">
+            <name>BURGLARY</name>
+            <Point id="geom_58">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_61">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_59">
+                <coordinates>-77.0345993366455,38.9185415759376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_62">
+            <name>BURGLARY</name>
+            <Point id="geom_60">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_63">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_61">
+                <coordinates>-76.9823326352652,38.8504500963027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_64">
+            <name>THEFT</name>
+            <Point id="geom_62">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_65">
+            <name>ADW</name>
+            <Point id="geom_63">
+                <coordinates>-77.0095241456543,38.9311876820267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_66">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_64">
+                <coordinates>-77.0345993366455,38.9185415759376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_67">
+            <name>BURGLARY</name>
+            <Point id="geom_65">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_68">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_66">
+                <coordinates>-77.0345993366455,38.9185415759376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_69">
+            <name>BURGLARY</name>
+            <Point id="geom_67">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_70">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_68">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_71">
+            <name>THEFT</name>
+            <Point id="geom_69">
+                <coordinates>-76.9931400297491,38.922217051454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_72">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_70">
+                <coordinates>-76.9772378358998,38.9172716043019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_73">
+            <name>THEFT</name>
+            <Point id="geom_71">
+                <coordinates>-76.9905551827762,38.8345836576052,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_74">
+            <name>ROBBERY</name>
+            <Point id="geom_72">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_75">
+            <name>ROBBERY</name>
+            <Point id="geom_73">
+                <coordinates>-77.0166522341733,38.9159457075218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_76">
+            <name>ADW</name>
+            <Point id="geom_74">
+                <coordinates>-76.9955764438628,38.8844499872859,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_77">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_75">
+                <coordinates>-76.9425502143132,38.868738809872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_78">
+            <name>THEFT</name>
+            <Point id="geom_76">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_79">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_77">
+                <coordinates>-77.0345993366455,38.9185415759376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_80">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_78">
+                <coordinates>-76.9665971095461,38.8583498624958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_81">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_79">
+                <coordinates>-76.9644843675462,38.8793201091268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_82">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_80">
+                <coordinates>-77.0017819498017,38.8414880201525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_83">
+            <name>THEFT</name>
+            <Point id="geom_81">
+                <coordinates>-76.9329483985462,38.8903664467587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_84">
+            <name>ROBBERY</name>
+            <Point id="geom_82">
+                <coordinates>-76.9344251774066,38.9077665146214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_85">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_83">
+                <coordinates>-77.0234567073177,38.915572101435,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_86">
+            <name>BURGLARY</name>
+            <Point id="geom_84">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_87">
+            <name>ADW</name>
+            <Point id="geom_85">
+                <coordinates>-76.9972242093593,38.9245326958876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_88">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_86">
+                <coordinates>-76.9829165089391,38.8897961955676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_89">
+            <name>THEFT</name>
+            <Point id="geom_87">
+                <coordinates>-76.9361044648726,38.886424347392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_90">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_88">
+                <coordinates>-76.9855399856046,38.8953096725533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_91">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_89">
+                <coordinates>-76.9846733065742,38.9249692747437,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_92">
+            <name>ADW</name>
+            <Point id="geom_90">
+                <coordinates>-76.9361044648726,38.886424347392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_93">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_91">
+                <coordinates>-76.963938184104,38.8797030799128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_94">
+            <name>BURGLARY</name>
+            <Point id="geom_92">
+                <coordinates>-77.0106631760166,38.8973081360764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_95">
+            <name>BURGLARY</name>
+            <Point id="geom_93">
+                <coordinates>-76.9919954240184,38.829790207996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_96">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_94">
+                <coordinates>-77.0073133633281,38.9100525101224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_97">
+            <name>ADW</name>
+            <Point id="geom_95">
+                <coordinates>-76.9727681830295,38.8454314572921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_98">
+            <name>ADW</name>
+            <Point id="geom_96">
+                <coordinates>-76.9622868512873,38.8804387127885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_99">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_97">
+                <coordinates>-76.9872492397632,38.943547939453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_100">
+            <name>ADW</name>
+            <Point id="geom_98">
+                <coordinates>-77.0229647469515,38.951955325639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_101">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_99">
+                <coordinates>-76.9329483985462,38.8903664467587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_102">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_100">
+                <coordinates>-77.0638497808914,38.9533058840686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_103">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_101">
+                <coordinates>-76.9687403212582,38.875114264531,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_104">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_102">
+                <coordinates>-76.9286611818608,38.903506212419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_105">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_103">
+                <coordinates>-76.9714185089717,38.8738265272899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_106">
+            <name>SEX ABUSE</name>
+            <Point id="geom_104">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_107">
+            <name>ROBBERY</name>
+            <Point id="geom_105">
+                <coordinates>-76.9315470661148,38.892449271023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_108">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_106">
+                <coordinates>-76.928046419557,38.8946398047977,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_109">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_107">
+                <coordinates>-77.0304025484153,38.9874893318211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_110">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_108">
+                <coordinates>-76.9873347753014,38.8435448758867,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_111">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_109">
+                <coordinates>-76.9735219322729,38.8688607997767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_112">
+            <name>THEFT</name>
+            <Point id="geom_110">
+                <coordinates>-77.0436067765966,38.9099278028729,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_113">
+            <name>THEFT</name>
+            <Point id="geom_111">
+                <coordinates>-77.0400642151904,38.9162874095453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_114">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_112">
+                <coordinates>-77.034548174736,38.913350623665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_115">
+            <name>BURGLARY</name>
+            <Point id="geom_113">
+                <coordinates>-76.9895256724805,38.9286487214401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_116">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_114">
+                <coordinates>-77.0481184595379,38.9140942190177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_117">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_115">
+                <coordinates>-76.9975063739042,38.908414348125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_118">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_116">
+                <coordinates>-77.0376204468913,38.9450654036933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_119">
+            <name>BURGLARY</name>
+            <Point id="geom_117">
+                <coordinates>-76.9815936938747,38.905992128665,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_120">
+            <name>BURGLARY</name>
+            <Point id="geom_118">
+                <coordinates>-76.9305792644323,38.9085565487922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_121">
+            <name>BURGLARY</name>
+            <Point id="geom_119">
+                <coordinates>-77.023966458656,38.9162805596657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_122">
+            <name>THEFT</name>
+            <Point id="geom_120">
+                <coordinates>-77.0967585325694,38.9503674134682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_123">
+            <name>SEX ABUSE</name>
+            <Point id="geom_121">
+                <coordinates>-77.0465190189637,38.9163841097932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_124">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_122">
+                <coordinates>-77.0280798710095,38.9148333838515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_125">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_123">
+                <coordinates>-76.9844506051455,38.90837449155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_126">
+            <name>ROBBERY</name>
+            <Point id="geom_124">
+                <coordinates>-76.995189723761,38.8593032861353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_127">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_125">
+                <coordinates>-76.9384842654411,38.8974888083556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_128">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_126">
+                <coordinates>-76.9906295733552,38.8848190388726,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_129">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_127">
+                <coordinates>-77.0827575050204,38.9129040173964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_130">
+            <name>THEFT</name>
+            <Point id="geom_128">
+                <coordinates>-76.9723346709762,38.8995547629086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_131">
+            <name>THEFT</name>
+            <Point id="geom_129">
+                <coordinates>-76.9735322325117,38.8673034734163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_132">
+            <name>BURGLARY</name>
+            <Point id="geom_130">
+                <coordinates>-77.0106772106994,38.8755474917874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_133">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_131">
+                <coordinates>-76.9492767536469,38.8628962534156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_134">
+            <name>THEFT</name>
+            <Point id="geom_132">
+                <coordinates>-77.0334124611554,38.9030998224675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_135">
+            <name>THEFT</name>
+            <Point id="geom_133">
+                <coordinates>-77.0249687761644,38.8973442398914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_136">
+            <name>SEX ABUSE</name>
+            <Point id="geom_134">
+                <coordinates>-76.9379074880782,38.9006660340089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_137">
+            <name>THEFT</name>
+            <Point id="geom_135">
+                <coordinates>-76.9871704703379,38.8796794254919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_138">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_136">
+                <coordinates>-77.0423222757839,38.9263071077008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_139">
+            <name>BURGLARY</name>
+            <Point id="geom_137">
+                <coordinates>-77.0418591511828,38.9201255955791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_140">
+            <name>SEX ABUSE</name>
+            <Point id="geom_138">
+                <coordinates>-76.9973045567112,38.9002037942895,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_141">
+            <name>ROBBERY</name>
+            <Point id="geom_139">
+                <coordinates>-76.9929124277797,38.830777665331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_142">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_140">
+                <coordinates>-76.9944776048819,38.8603731847946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_143">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_141">
+                <coordinates>-77.0992039427561,38.9397935746698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_144">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_142">
+                <coordinates>-76.9632409874404,38.9250276975944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_145">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_143">
+                <coordinates>-77.0701995865807,38.913636845216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_146">
+            <name>THEFT</name>
+            <Point id="geom_144">
+                <coordinates>-77.0425744044255,38.9025254317421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_147">
+            <name>ROBBERY</name>
+            <Point id="geom_145">
+                <coordinates>-76.9803947808839,38.9013616403365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_148">
+            <name>BURGLARY</name>
+            <Point id="geom_146">
+                <coordinates>-76.9486847182533,38.8645131181177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_149">
+            <name>THEFT</name>
+            <Point id="geom_147">
+                <coordinates>-77.0258761439591,38.953723294253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_150">
+            <name>THEFT</name>
+            <Point id="geom_148">
+                <coordinates>-77.0013016724531,38.9234381545463,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_151">
+            <name>THEFT</name>
+            <Point id="geom_149">
+                <coordinates>-77.0355400995662,38.9096433940893,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_152">
+            <name>ROBBERY</name>
+            <Point id="geom_150">
+                <coordinates>-76.9702263399702,38.9022729386894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_153">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_151">
+                <coordinates>-77.0227070822537,38.9253529822331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_154">
+            <name>BURGLARY</name>
+            <Point id="geom_152">
+                <coordinates>-77.0006034623543,38.8273069170158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_155">
+            <name>ROBBERY</name>
+            <Point id="geom_153">
+                <coordinates>-77.0183240022935,38.9222044431743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_156">
+            <name>BURGLARY</name>
+            <Point id="geom_154">
+                <coordinates>-76.9646901454354,38.8537269646414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_157">
+            <name>BURGLARY</name>
+            <Point id="geom_155">
+                <coordinates>-76.9665067151076,38.854255393946,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_158">
+            <name>ROBBERY</name>
+            <Point id="geom_156">
+                <coordinates>-77.0777956930447,38.9507209850749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_159">
+            <name>BURGLARY</name>
+            <Point id="geom_157">
+                <coordinates>-77.032729237894,38.9392097988053,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_160">
+            <name>THEFT</name>
+            <Point id="geom_158">
+                <coordinates>-77.0375237138642,38.9037392090816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_161">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_159">
+                <coordinates>-77.0291028847083,38.9325774123022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_162">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_160">
+                <coordinates>-77.0083898924349,38.8972254445223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_163">
+            <name>THEFT</name>
+            <Point id="geom_161">
+                <coordinates>-77.0066682038952,38.879284499629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_164">
+            <name>THEFT</name>
+            <Point id="geom_162">
+                <coordinates>-77.0311142103618,38.9308389103477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_165">
+            <name>ROBBERY</name>
+            <Point id="geom_163">
+                <coordinates>-77.0781266543027,38.945138951784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_166">
+            <name>THEFT</name>
+            <Point id="geom_164">
+                <coordinates>-76.9875279632446,38.9039671037414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_167">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_165">
+                <coordinates>-77.0280798710095,38.9148333838515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_168">
+            <name>ROBBERY</name>
+            <Point id="geom_166">
+                <coordinates>-76.9950667450402,38.9216040197251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_169">
+            <name>ROBBERY</name>
+            <Point id="geom_167">
+                <coordinates>-76.9854760785688,38.8864715497259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_170">
+            <name>THEFT</name>
+            <Point id="geom_168">
+                <coordinates>-76.9894598945684,38.8616308373066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_171">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_169">
+                <coordinates>-77.0280787525812,38.9019249883911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_172">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_170">
+                <coordinates>-77.0124726412532,38.8291282568311,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_173">
+            <name>ADW</name>
+            <Point id="geom_171">
+                <coordinates>-76.9869090082514,38.8961186445013,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_174">
+            <name>BURGLARY</name>
+            <Point id="geom_172">
+                <coordinates>-77.0364681060187,38.9298082476135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_175">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_173">
+                <coordinates>-77.0251632129404,38.9017749597979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_176">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_174">
+                <coordinates>-77.0399268188829,38.9207298014107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_177">
+            <name>THEFT</name>
+            <Point id="geom_175">
+                <coordinates>-77.0543386569579,38.9233793609981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_178">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_176">
+                <coordinates>-76.986548069153,38.9151283320241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_179">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_177">
+                <coordinates>-77.0229506516882,38.9189263974888,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_180">
+            <name>THEFT</name>
+            <Point id="geom_178">
+                <coordinates>-76.9733028378747,38.8665779626218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_181">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_179">
+                <coordinates>-77.0465190189637,38.9163841097932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_182">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_180">
+                <coordinates>-77.0355124167133,38.9170016658099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_183">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_181">
+                <coordinates>-76.9563111358226,38.9271198585961,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_184">
+            <name>ROBBERY</name>
+            <Point id="geom_182">
+                <coordinates>-76.9206458139653,38.8853662919069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_185">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_183">
+                <coordinates>-77.0106103977219,38.9067353846478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_186">
+            <name>ADW</name>
+            <Point id="geom_184">
+                <coordinates>-76.9844642687264,38.8539141417729,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_187">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_185">
+                <coordinates>-77.0203183011451,38.9463100192843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_188">
+            <name>THEFT</name>
+            <Point id="geom_186">
+                <coordinates>-77.0209426488138,38.9096707100504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_189">
+            <name>THEFT</name>
+            <Point id="geom_187">
+                <coordinates>-76.989645174956,38.8651584931863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_190">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_188">
+                <coordinates>-76.9944577833565,38.922745346832,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_191">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_189">
+                <coordinates>-76.9244214442491,38.8820494586861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_192">
+            <name>THEFT</name>
+            <Point id="geom_190">
+                <coordinates>-77.0606729807953,38.9051972790545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_193">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_191">
+                <coordinates>-76.9705980434458,38.8451597767289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_194">
+            <name>ROBBERY</name>
+            <Point id="geom_192">
+                <coordinates>-76.9769900510734,38.8989948614031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_195">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_193">
+                <coordinates>-76.9518551533216,38.8891300802111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_196">
+            <name>THEFT</name>
+            <Point id="geom_194">
+                <coordinates>-77.0606729807953,38.9051972790545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_197">
+            <name>ROBBERY</name>
+            <Point id="geom_195">
+                <coordinates>-77.0219109814485,38.9008704553551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_198">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_196">
+                <coordinates>-77.0265140555169,38.8998173983393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_199">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_197">
+                <coordinates>-77.0346281697568,38.9019283823001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_200">
+            <name>THEFT</name>
+            <Point id="geom_198">
+                <coordinates>-77.0642650916126,38.9051435321707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_201">
+            <name>ROBBERY</name>
+            <Point id="geom_199">
+                <coordinates>-76.9992778481181,38.8228314175412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_202">
+            <name>ADW</name>
+            <Point id="geom_200">
+                <coordinates>-76.9924347091355,38.6980907025003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_203">
+            <name>BURGLARY</name>
+            <Point id="geom_201">
+                <coordinates>-76.9919954240184,38.829790207996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_204">
+            <name>ROBBERY</name>
+            <Point id="geom_202">
+                <coordinates>-76.9265989698681,38.889786093261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_205">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_203">
+                <coordinates>-76.9378745017664,38.880215821059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_206">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_204">
+                <coordinates>-76.9960978348984,38.8555078004376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_207">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_205">
+                <coordinates>-77.0563262992912,38.9409427884444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_208">
+            <name>THEFT</name>
+            <Point id="geom_206">
+                <coordinates>-77.020911368117,38.8961311596106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_209">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_207">
+                <coordinates>-77.0316019196207,38.9643423706848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_210">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_208">
+                <coordinates>-77.0477173223525,38.9085698775498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_211">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_209">
+                <coordinates>-77.0096653536965,38.905647990083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_212">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_210">
+                <coordinates>-77.0028297717256,38.9189871711346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_213">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_211">
+                <coordinates>-77.0385524567556,38.9018983264712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_214">
+            <name>ROBBERY</name>
+            <Point id="geom_212">
+                <coordinates>-77.0416604581122,38.9137242615815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_215">
+            <name>ROBBERY</name>
+            <Point id="geom_213">
+                <coordinates>-77.0005705767804,38.9202283712022,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_216">
+            <name>ROBBERY</name>
+            <Point id="geom_214">
+                <coordinates>-77.0073133633281,38.9100525101224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_217">
+            <name>ROBBERY</name>
+            <Point id="geom_215">
+                <coordinates>-77.0348720500604,38.9310416174565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_218">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_216">
+                <coordinates>-76.9973271697421,38.8851166607907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_219">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_217">
+                <coordinates>-77.0400912004109,38.9072419007349,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_220">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_218">
+                <coordinates>-77.024976699768,38.9148307102436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_221">
+            <name>ADW</name>
+            <Point id="geom_219">
+                <coordinates>-76.9894598945684,38.8616308373066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_222">
+            <name>ROBBERY</name>
+            <Point id="geom_220">
+                <coordinates>-76.9855084670603,38.8961149259865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_223">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_221">
+                <coordinates>-77.0219182105749,38.9148304794453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_224">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_222">
+                <coordinates>-77.023434924249,38.9117862961182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_225">
+            <name>ROBBERY</name>
+            <Point id="geom_223">
+                <coordinates>-77.0309206362996,38.9365808540707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_226">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_224">
+                <coordinates>-76.9291553233825,38.9010496807045,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_227">
+            <name>ROBBERY</name>
+            <Point id="geom_225">
+                <coordinates>-77.0371776813573,38.9283003986768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_228">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_226">
+                <coordinates>-76.9881765625082,38.9128492320253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_229">
+            <name>ROBBERY</name>
+            <Point id="geom_227">
+                <coordinates>-77.0319525753228,38.9126062883358,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_230">
+            <name>ROBBERY</name>
+            <Point id="geom_228">
+                <coordinates>-77.0332415397911,38.9169972666979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_231">
+            <name>ADW</name>
+            <Point id="geom_229">
+                <coordinates>-76.9838628724527,38.84505398129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_232">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_230">
+                <coordinates>-76.966955887342,38.8719768791943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_233">
+            <name>ADW</name>
+            <Point id="geom_231">
+                <coordinates>-77.007535506969,38.9064383479541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_234">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_232">
+                <coordinates>-76.9206458139653,38.8853662919069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_235">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_233">
+                <coordinates>-76.9739546290666,38.9195712516501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_236">
+            <name>THEFT</name>
+            <Point id="geom_234">
+                <coordinates>-77.0189286615726,38.900336572749,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_237">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_235">
+                <coordinates>-76.9569527184265,38.8604779007537,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_238">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_236">
+                <coordinates>-77.0332539369915,38.9111270654505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_239">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_237">
+                <coordinates>-76.94656937733,38.8688857534462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_240">
+            <name>THEFT</name>
+            <Point id="geom_238">
+                <coordinates>-77.0264565788352,38.9169672455024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_241">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_239">
+                <coordinates>-77.0126312297528,38.956587992509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_242">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_240">
+                <coordinates>-76.9865435043636,38.8980708559938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_243">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_241">
+                <coordinates>-76.9343760292682,38.9106685819289,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_244">
+            <name>THEFT</name>
+            <Point id="geom_242">
+                <coordinates>-77.0824482688844,38.9521078296914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_245">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_243">
+                <coordinates>-77.107104736065,38.9289490452497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_246">
+            <name>THEFT</name>
+            <Point id="geom_244">
+                <coordinates>-77.0415778764593,38.9064393003251,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_247">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_245">
+                <coordinates>-76.9836457189765,38.8941435711073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_248">
+            <name>ROBBERY</name>
+            <Point id="geom_246">
+                <coordinates>-77.0311347111434,38.9460935514175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_249">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_247">
+                <coordinates>-77.0071343627472,38.8336858613216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_250">
+            <name>ADW</name>
+            <Point id="geom_248">
+                <coordinates>-76.9747919727311,38.8954468017145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_251">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_249">
+                <coordinates>-77.0104306436114,38.9601619550519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_252">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_250">
+                <coordinates>-77.0629295411046,38.9408524337295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_253">
+            <name>BURGLARY</name>
+            <Point id="geom_251">
+                <coordinates>-76.9360081196532,38.9115987540277,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_254">
+            <name>THEFT</name>
+            <Point id="geom_252">
+                <coordinates>-77.0724215532608,38.9340627038118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_255">
+            <name>THEFT</name>
+            <Point id="geom_253">
+                <coordinates>-77.0332451281393,38.9126361055668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_256">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_254">
+                <coordinates>-77.0189313173709,38.8998097916174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_257">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_255">
+                <coordinates>-77.0434998116947,38.9215825151932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_258">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_256">
+                <coordinates>-77.0090025946127,38.8213130232568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_259">
+            <name>BURGLARY</name>
+            <Point id="geom_257">
+                <coordinates>-77.0209426488138,38.9096707100504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_260">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_258">
+                <coordinates>-76.9650193869257,38.8561495148232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_261">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_259">
+                <coordinates>-76.9772378358998,38.9172716043019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_262">
+            <name>THEFT</name>
+            <Point id="geom_260">
+                <coordinates>-76.9931400297491,38.922217051454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_263">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_261">
+                <coordinates>-76.9984432656234,38.9031199886852,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_264">
+            <name>BURGLARY</name>
+            <Point id="geom_262">
+                <coordinates>-76.9757177969381,38.9239475650383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_265">
+            <name>THEFT</name>
+            <Point id="geom_263">
+                <coordinates>-77.0310812271068,38.9319009985217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_266">
+            <name>THEFT</name>
+            <Point id="geom_264">
+                <coordinates>-77.0233246219744,38.9413945939123,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_267">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_265">
+                <coordinates>-77.0284903786849,38.9276885849929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_268">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_266">
+                <coordinates>-77.0395717528921,38.9126075315076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_269">
+            <name>ROBBERY</name>
+            <Point id="geom_267">
+                <coordinates>-76.9699922184437,38.8732019970544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_270">
+            <name>THEFT</name>
+            <Point id="geom_268">
+                <coordinates>-77.0520486494241,38.9265754007197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_271">
+            <name>THEFT</name>
+            <Point id="geom_269">
+                <coordinates>-76.9957722216305,38.9333268186302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_272">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_270">
+                <coordinates>-77.0425407556464,38.9155744536211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_273">
+            <name>BURGLARY</name>
+            <Point id="geom_271">
+                <coordinates>-77.0434998116947,38.9215825151932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_274">
+            <name>THEFT</name>
+            <Point id="geom_272">
+                <coordinates>-77.0175497103425,38.9037342047551,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_275">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_273">
+                <coordinates>-76.9721611961014,38.9148188029899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_276">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_274">
+                <coordinates>-76.9938705921893,38.8300334401899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_277">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_275">
+                <coordinates>-77.0431685731274,38.9187399480295,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_278">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_276">
+                <coordinates>-77.0488217543389,38.9132639215903,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_279">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_277">
+                <coordinates>-77.0955264313137,38.9383544656589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_280">
+            <name>THEFT</name>
+            <Point id="geom_278">
+                <coordinates>-76.9279636641661,38.8913327239415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_281">
+            <name>BURGLARY</name>
+            <Point id="geom_279">
+                <coordinates>-77.0077108810091,38.9096377066955,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_282">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_280">
+                <coordinates>-77.040196360823,38.9148339257898,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_283">
+            <name>THEFT</name>
+            <Point id="geom_281">
+                <coordinates>-77.0955264313137,38.9383544656589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_284">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_282">
+                <coordinates>-77.0757142728319,38.9583565221848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_285">
+            <name>THEFT</name>
+            <Point id="geom_283">
+                <coordinates>-77.0383339200702,38.929787381831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_286">
+            <name>ADW</name>
+            <Point id="geom_284">
+                <coordinates>-77.0090529647873,38.907350803918,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_287">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_285">
+                <coordinates>-76.9419871660846,38.9036442106996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_288">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_286">
+                <coordinates>-77.0859729361823,38.9270090215837,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_289">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_287">
+                <coordinates>-76.9828767322897,38.9258574986604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_290">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_288">
+                <coordinates>-76.9384842188323,38.8975428585181,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_291">
+            <name>THEFT</name>
+            <Point id="geom_289">
+                <coordinates>-76.9687090244604,38.8605808203172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_292">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_290">
+                <coordinates>-77.1110593617104,38.9305229355401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_293">
+            <name>THEFT</name>
+            <Point id="geom_291">
+                <coordinates>-77.047069472344,38.9188952430718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_294">
+            <name>THEFT</name>
+            <Point id="geom_292">
+                <coordinates>-77.0465190189637,38.9163841097932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_295">
+            <name>ROBBERY</name>
+            <Point id="geom_293">
+                <coordinates>-77.0375020186307,38.9111273274635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_296">
+            <name>THEFT</name>
+            <Point id="geom_294">
+                <coordinates>-76.9867924815983,38.8919794269495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_297">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_295">
+                <coordinates>-77.1045129548159,38.9264037265731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_298">
+            <name>THEFT</name>
+            <Point id="geom_296">
+                <coordinates>-77.0234766061408,38.8972073125578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_299">
+            <name>THEFT</name>
+            <Point id="geom_297">
+                <coordinates>-77.0229430068181,38.893595063753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_300">
+            <name>THEFT</name>
+            <Point id="geom_298">
+                <coordinates>-77.0483414285486,38.9173881369119,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_301">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_299">
+                <coordinates>-77.0164390398382,38.8792817031564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_302">
+            <name>SEX ABUSE</name>
+            <Point id="geom_300">
+                <coordinates>-76.9943277700032,38.9045162966762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_303">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_301">
+                <coordinates>-77.0020748023386,38.8287044512608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_304">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_302">
+                <coordinates>-77.0755593994713,38.9132761245161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_305">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_303">
+                <coordinates>-77.0429514479706,38.9178194893664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_306">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_304">
+                <coordinates>-77.0094781044591,38.8277605604912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_307">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_305">
+                <coordinates>-76.9919954179593,38.8298442587854,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_308">
+            <name>BURGLARY</name>
+            <Point id="geom_306">
+                <coordinates>-76.9876673688595,38.8586628656518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_309">
+            <name>THEFT</name>
+            <Point id="geom_307">
+                <coordinates>-77.0398091761417,38.9061028633956,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_310">
+            <name>ADW</name>
+            <Point id="geom_308">
+                <coordinates>-76.9846612351427,38.9425546057145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_311">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_309">
+                <coordinates>-77.0307910186736,38.8973467915258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_312">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_310">
+                <coordinates>-76.99386453442,38.9580022478771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_313">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_311">
+                <coordinates>-77.0175519337838,38.9025211733107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_314">
+            <name>THEFT</name>
+            <Point id="geom_312">
+                <coordinates>-76.9819391015175,38.943409441048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_315">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_313">
+                <coordinates>-77.0722841212841,38.9215120942874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_316">
+            <name>BURGLARY</name>
+            <Point id="geom_314">
+                <coordinates>-77.0005343636115,38.8273069173526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_317">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_315">
+                <coordinates>-76.9773962908749,38.8648212854993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_318">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_316">
+                <coordinates>-77.0005723123524,38.8383352154942,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_319">
+            <name>ROBBERY</name>
+            <Point id="geom_317">
+                <coordinates>-77.0327410532733,38.9297745846515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_320">
+            <name>THEFT</name>
+            <Point id="geom_318">
+                <coordinates>-76.986744645709,38.901281458166,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_321">
+            <name>THEFT</name>
+            <Point id="geom_319">
+                <coordinates>-76.934477798341,38.8885286203844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_322">
+            <name>THEFT</name>
+            <Point id="geom_320">
+                <coordinates>-77.0395717528921,38.9126075315076,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_323">
+            <name>THEFT</name>
+            <Point id="geom_321">
+                <coordinates>-77.0319638389875,38.8920935422097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_324">
+            <name>THEFT</name>
+            <Point id="geom_322">
+                <coordinates>-77.0365336858701,38.9056541972764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_325">
+            <name>ADW</name>
+            <Point id="geom_323">
+                <coordinates>-77.0389958218581,38.9231593002337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_326">
+            <name>ADW</name>
+            <Point id="geom_324">
+                <coordinates>-76.9767381698427,38.8947776305218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_327">
+            <name>THEFT</name>
+            <Point id="geom_325">
+                <coordinates>-77.0365311324072,38.9072378657812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_328">
+            <name>ROBBERY</name>
+            <Point id="geom_326">
+                <coordinates>-76.9635977539802,38.8572786524003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_329">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_327">
+                <coordinates>-76.9902434275921,38.887591606608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_330">
+            <name>THEFT</name>
+            <Point id="geom_328">
+                <coordinates>-77.0327640029717,38.9295214447091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_331">
+            <name>ROBBERY</name>
+            <Point id="geom_329">
+                <coordinates>-76.9824602204656,38.8999767367049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_332">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_330">
+                <coordinates>-77.020911368117,38.8961311596106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_333">
+            <name>THEFT</name>
+            <Point id="geom_331">
+                <coordinates>-77.0375066429352,38.9096433423823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_334">
+            <name>BURGLARY</name>
+            <Point id="geom_332">
+                <coordinates>-77.0118530327556,38.9643747260094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_335">
+            <name>ADW</name>
+            <Point id="geom_333">
+                <coordinates>-77.0241601901846,38.9356798154416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_336">
+            <name>ADW</name>
+            <Point id="geom_334">
+                <coordinates>-77.0319500247959,38.908038834233,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_337">
+            <name>ROBBERY</name>
+            <Point id="geom_335">
+                <coordinates>-76.9252922186455,38.8934059108504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_338">
+            <name>ROBBERY</name>
+            <Point id="geom_336">
+                <coordinates>-77.022404235003,38.930691648147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_339">
+            <name>ADW</name>
+            <Point id="geom_337">
+                <coordinates>-77.085288045686,38.9599123010178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_340">
+            <name>ROBBERY</name>
+            <Point id="geom_338">
+                <coordinates>-77.0264898017657,38.9518903961331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_341">
+            <name>ROBBERY</name>
+            <Point id="geom_339">
+                <coordinates>-76.9699722055558,38.8558222719633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_342">
+            <name>ROBBERY</name>
+            <Point id="geom_340">
+                <coordinates>-77.0543951212129,38.9014968107778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_343">
+            <name>ROBBERY</name>
+            <Point id="geom_341">
+                <coordinates>-76.9955672152972,38.8973334524352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_344">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_342">
+                <coordinates>-77.0428525884796,38.9230093067366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_345">
+            <name>ROBBERY</name>
+            <Point id="geom_343">
+                <coordinates>-76.9379860991944,38.8831753334601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_346">
+            <name>ROBBERY</name>
+            <Point id="geom_344">
+                <coordinates>-77.0241600401255,38.9250256326721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_347">
+            <name>ROBBERY</name>
+            <Point id="geom_345">
+                <coordinates>-76.9829539204524,38.8933211770518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_348">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_346">
+                <coordinates>-76.9709046660599,38.9209627124896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_349">
+            <name>ROBBERY</name>
+            <Point id="geom_347">
+                <coordinates>-77.0233273267773,38.9672873083869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_350">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_348">
+                <coordinates>-76.9845887992893,38.8841038643203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_351">
+            <name>THEFT</name>
+            <Point id="geom_349">
+                <coordinates>-76.9973063156137,38.901326179339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_352">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_350">
+                <coordinates>-77.0375111396628,38.9320324346691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_353">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_351">
+                <coordinates>-77.0270349155838,38.9186472511153,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_354">
+            <name>ADW</name>
+            <Point id="geom_352">
+                <coordinates>-76.9664610222764,38.8506660553308,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_355">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_353">
+                <coordinates>-76.9984421231324,38.9059439659468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_356">
+            <name>ROBBERY</name>
+            <Point id="geom_354">
+                <coordinates>-76.9871095288195,38.8935741240485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_357">
+            <name>ROBBERY</name>
+            <Point id="geom_355">
+                <coordinates>-77.0025837600184,38.9080618664691,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_358">
+            <name>ROBBERY</name>
+            <Point id="geom_356">
+                <coordinates>-76.9824602204656,38.8999767367049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_359">
+            <name>ROBBERY</name>
+            <Point id="geom_357">
+                <coordinates>-77.0121565741134,38.9140853200727,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_360">
+            <name>ROBBERY</name>
+            <Point id="geom_358">
+                <coordinates>-76.9823326352652,38.8504500963027,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_361">
+            <name>ADW</name>
+            <Point id="geom_359">
+                <coordinates>-77.0423916905573,38.921706336463,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_362">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_360">
+                <coordinates>-76.9704331547257,38.867802415068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_363">
+            <name>ADW</name>
+            <Point id="geom_361">
+                <coordinates>-77.0050905241957,38.9166380319436,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_364">
+            <name>ADW</name>
+            <Point id="geom_362">
+                <coordinates>-76.9524252418546,38.8847574769887,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_365">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_363">
+                <coordinates>-77.0249878951067,38.9056462807388,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_366">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_364">
+                <coordinates>-77.0399190469888,38.9118670404811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_367">
+            <name>ROBBERY</name>
+            <Point id="geom_365">
+                <coordinates>-77.0281249034022,38.931257794192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_368">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_366">
+                <coordinates>-76.9973540237102,38.8292030723643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_369">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_367">
+                <coordinates>-76.9853749632321,38.8336321680097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_370">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_368">
+                <coordinates>-76.9895652464063,38.9512932058408,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_371">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_369">
+                <coordinates>-76.9892780254663,38.8954369245102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_372">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_370">
+                <coordinates>-76.9363142677821,38.8951879503303,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_373">
+            <name>SEX ABUSE</name>
+            <Point id="geom_371">
+                <coordinates>-77.0358475905428,38.9278660224212,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_374">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_372">
+                <coordinates>-77.0886793664786,38.9250590909429,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_375">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_373">
+                <coordinates>-76.9292327060496,38.8945872111927,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_376">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_374">
+                <coordinates>-77.0378376396627,38.9257111972402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_377">
+            <name>THEFT</name>
+            <Point id="geom_375">
+                <coordinates>-77.0167570800593,38.9174279853444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_378">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_376">
+                <coordinates>-76.9908870638037,38.8935751441915,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_379">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_377">
+                <coordinates>-77.0649581605176,38.9122979155382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_380">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_378">
+                <coordinates>-77.0199305299758,38.8758077198064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_381">
+            <name>THEFT</name>
+            <Point id="geom_379">
+                <coordinates>-77.008800970325,38.9495394293645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_382">
+            <name>ROBBERY</name>
+            <Point id="geom_380">
+                <coordinates>-76.9803866867308,38.899615509603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_383">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_381">
+                <coordinates>-76.9269239094576,38.8918618831414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_384">
+            <name>THEFT</name>
+            <Point id="geom_382">
+                <coordinates>-77.0348802639196,38.9793954397889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_385">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_383">
+                <coordinates>-77.0416677330925,38.9107577002038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_386">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_384">
+                <coordinates>-77.0270481840674,38.9583815682587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_387">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_385">
+                <coordinates>-77.0161760093601,38.9025195589921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_388">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_386">
+                <coordinates>-77.001424467522,38.8213802357129,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_389">
+            <name>THEFT</name>
+            <Point id="geom_387">
+                <coordinates>-77.0121262042948,38.9117880170143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_390">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_388">
+                <coordinates>-77.0005343636115,38.8273069173526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_391">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_389">
+                <coordinates>-76.9704331547257,38.867802415068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_392">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_390">
+                <coordinates>-76.9328792387477,38.8903664070382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_393">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_391">
+                <coordinates>-76.9705860975509,38.8545825981417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_394">
+            <name>THEFT</name>
+            <Point id="geom_392">
+                <coordinates>-76.9757176068669,38.9050325667399,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_395">
+            <name>ROBBERY</name>
+            <Point id="geom_393">
+                <coordinates>-76.9931973695699,38.8367076809199,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_396">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_394">
+                <coordinates>-77.0444920928534,38.9255933779207,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_397">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_395">
+                <coordinates>-77.0063569743844,38.8260716842869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_398">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_396">
+                <coordinates>-77.0248738691935,38.9299374066115,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_399">
+            <name>ADW</name>
+            <Point id="geom_397">
+                <coordinates>-76.9996347274601,38.8243578825554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_400">
+            <name>THEFT</name>
+            <Point id="geom_398">
+                <coordinates>-77.0325901035071,38.9281722734975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_401">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_399">
+                <coordinates>-77.0416043119182,38.9254724577699,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_402">
+            <name>ADW</name>
+            <Point id="geom_400">
+                <coordinates>-76.9863911916154,38.9120481666361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_403">
+            <name>THEFT</name>
+            <Point id="geom_401">
+                <coordinates>-77.042513668825,38.9106350791175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_404">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_402">
+                <coordinates>-77.0678914538938,38.9117076654843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_405">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_403">
+                <coordinates>-76.963594046798,38.8546644055681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_406">
+            <name>ADW</name>
+            <Point id="geom_404">
+                <coordinates>-77.0375259575379,38.9025254733487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_407">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_405">
+                <coordinates>-77.0293145619539,38.9324951023175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_408">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_406">
+                <coordinates>-77.0270638059597,38.9005800268386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_409">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_407">
+                <coordinates>-77.0441953717974,38.9126009476694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_410">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_408">
+                <coordinates>-77.0005709796139,38.8967282857368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_411">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_409">
+                <coordinates>-77.0662508061661,38.9462433256126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_412">
+            <name>THEFT</name>
+            <Point id="geom_410">
+                <coordinates>-77.0249808617666,38.913339548268,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_413">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_411">
+                <coordinates>-77.0319115814827,38.9445199889834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_414">
+            <name>ROBBERY</name>
+            <Point id="geom_412">
+                <coordinates>-77.0090664597676,38.9037304789896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_415">
+            <name>THEFT</name>
+            <Point id="geom_413">
+                <coordinates>-77.0399190469888,38.9118670404811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_416">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_414">
+                <coordinates>-76.9836457189765,38.8941435711073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_417">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_415">
+                <coordinates>-76.9625332736633,38.9187071488246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_418">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_416">
+                <coordinates>-76.9958420273765,38.9096129679135,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_419">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_417">
+                <coordinates>-77.0541354460336,38.9093807869826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_420">
+            <name>THEFT</name>
+            <Point id="geom_418">
+                <coordinates>-77.0845872863257,38.958534264488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_421">
+            <name>ADW</name>
+            <Point id="geom_419">
+                <coordinates>-76.9414128142731,38.8918913029302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_422">
+            <name>ADW</name>
+            <Point id="geom_420">
+                <coordinates>-76.9529750825686,38.8649876132638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_423">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_421">
+                <coordinates>-76.925870836869,38.9006866045507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_424">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_422">
+                <coordinates>-77.0355336431523,38.9118714122528,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_425">
+            <name>BURGLARY</name>
+            <Point id="geom_423">
+                <coordinates>-77.0012321110561,38.8853662170552,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_426">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_424">
+                <coordinates>-77.0345993366455,38.9185415759376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_427">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_425">
+                <coordinates>-77.0259836601521,38.9035789045269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_428">
+            <name>BURGLARY</name>
+            <Point id="geom_426">
+                <coordinates>-76.9714387744384,38.8715251078736,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_429">
+            <name>THEFT</name>
+            <Point id="geom_427">
+                <coordinates>-77.0306792215251,38.9169995439792,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_430">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_428">
+                <coordinates>-77.0240194834481,38.9014653130943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_431">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_429">
+                <coordinates>-76.9586466904082,38.8836340507687,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_432">
+            <name>THEFT</name>
+            <Point id="geom_430">
+                <coordinates>-77.0845494889578,38.9610169122506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_433">
+            <name>THEFT</name>
+            <Point id="geom_431">
+                <coordinates>-77.0466632392299,38.8966874380175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_434">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_432">
+                <coordinates>-76.9868514234336,38.8938765399973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_435">
+            <name>ROBBERY</name>
+            <Point id="geom_433">
+                <coordinates>-77.0065455772724,38.9166365519445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_436">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_434">
+                <coordinates>-77.0364480539517,38.9371146918586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_437">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_435">
+                <coordinates>-77.0317995092893,38.9324817003054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_438">
+            <name>THEFT</name>
+            <Point id="geom_436">
+                <coordinates>-77.0334909711138,38.9056464047923,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_439">
+            <name>THEFT</name>
+            <Point id="geom_437">
+                <coordinates>-76.9417789893041,38.9016262353907,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_440">
+            <name>ADW</name>
+            <Point id="geom_438">
+                <coordinates>-76.9479773182155,38.8628237269533,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_441">
+            <name>ROBBERY</name>
+            <Point id="geom_439">
+                <coordinates>-76.9129798546115,38.8919680288445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_442">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_440">
+                <coordinates>-77.1004548494478,38.9309248151612,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_443">
+            <name>ROBBERY</name>
+            <Point id="geom_441">
+                <coordinates>-77.0378376396627,38.9257111972402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_444">
+            <name>ADW</name>
+            <Point id="geom_442">
+                <coordinates>-77.0020748023386,38.8287044512608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_445">
+            <name>ROBBERY</name>
+            <Point id="geom_443">
+                <coordinates>-77.0074619482504,38.8755591990899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_446">
+            <name>ADW</name>
+            <Point id="geom_444">
+                <coordinates>-77.0231236612628,38.9552823011994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_447">
+            <name>ROBBERY</name>
+            <Point id="geom_445">
+                <coordinates>-76.9399930619809,38.909621707339,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_448">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_446">
+                <coordinates>-77.0055046126532,38.8473568348095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_449">
+            <name>ADW</name>
+            <Point id="geom_447">
+                <coordinates>-76.9291352349078,38.8928396969847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_450">
+            <name>ADW</name>
+            <Point id="geom_448">
+                <coordinates>-76.9959910996987,38.8482046602204,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_451">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_449">
+                <coordinates>-77.0770517874743,38.92901905376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_452">
+            <name>ADW</name>
+            <Point id="geom_450">
+                <coordinates>-76.9235987827056,38.9039987547522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_453">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_451">
+                <coordinates>-77.0229433521096,38.9148304233646,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_454">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_452">
+                <coordinates>-76.9961743569936,38.8881362095241,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_455">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_453">
+                <coordinates>-77.0280805289398,38.8998115540597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_456">
+            <name>ROBBERY</name>
+            <Point id="geom_454">
+                <coordinates>-77.0192757848287,38.9157237555056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_457">
+            <name>SEX ABUSE</name>
+            <Point id="geom_455">
+                <coordinates>-77.0319736644613,38.9056369770023,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_458">
+            <name>SEX ABUSE</name>
+            <Point id="geom_456">
+                <coordinates>-76.9867817759164,38.8517737986085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_459">
+            <name>THEFT</name>
+            <Point id="geom_457">
+                <coordinates>-77.037542430347,38.9126041755082,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_460">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_458">
+                <coordinates>-77.0058696054248,38.9432233446826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_461">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_459">
+                <coordinates>-77.0544413588303,38.9285655703354,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_462">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_460">
+                <coordinates>-77.0353181195334,38.9076863139384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_463">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_461">
+                <coordinates>-77.0175564655578,38.8755567102574,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_464">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_462">
+                <coordinates>-77.0290805056889,38.9722632123767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_465">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_463">
+                <coordinates>-77.0349015395102,38.9661353123587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_466">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_464">
+                <coordinates>-77.0265132892493,38.9181105305417,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_467">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_465">
+                <coordinates>-77.0442310128403,38.9079035057067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_468">
+            <name>SEX ABUSE</name>
+            <Point id="geom_466">
+                <coordinates>-77.0149851310962,38.9147171965139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_469">
+            <name>ADW</name>
+            <Point id="geom_467">
+                <coordinates>-76.9880421030757,38.8569621141509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_470">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_468">
+                <coordinates>-77.0425407556464,38.9155744536211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_471">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_469">
+                <coordinates>-76.9307105057502,38.8970380916337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_472">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_470">
+                <coordinates>-77.100824141691,38.9461255807568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_473">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_471">
+                <coordinates>-77.0088472079387,38.9502871126626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_474">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_472">
+                <coordinates>-77.0597562852139,38.9342773377606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_475">
+            <name>BURGLARY</name>
+            <Point id="geom_473">
+                <coordinates>-76.9815224047241,38.8571302849433,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_476">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_474">
+                <coordinates>-76.966749330811,38.8701108140432,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_477">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_475">
+                <coordinates>-77.0047716580868,38.9440873455309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_478">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_476">
+                <coordinates>-77.0049376673684,38.9676348000297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_479">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_477">
+                <coordinates>-77.0358475905428,38.9278660224212,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_480">
+            <name>THEFT</name>
+            <Point id="geom_478">
+                <coordinates>-77.0145145933363,38.9719921614239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_481">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_479">
+                <coordinates>-77.0245964219753,38.9497722891514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_482">
+            <name>THEFT</name>
+            <Point id="geom_480">
+                <coordinates>-77.0405727950683,38.901336337265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_483">
+            <name>THEFT</name>
+            <Point id="geom_481">
+                <coordinates>-77.0027574151739,38.9563211531914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_484">
+            <name>THEFT</name>
+            <Point id="geom_482">
+                <coordinates>-77.0055142312757,38.8227453063939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_485">
+            <name>THEFT</name>
+            <Point id="geom_483">
+                <coordinates>-77.014847656801,38.9055041573685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_486">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_484">
+                <coordinates>-77.0308409453545,38.9636676307331,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_487">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_485">
+                <coordinates>-76.958922823898,38.8638217189894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_488">
+            <name>THEFT</name>
+            <Point id="geom_486">
+                <coordinates>-77.0405727950683,38.901336337265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_489">
+            <name>BURGLARY</name>
+            <Point id="geom_487">
+                <coordinates>-77.0061271504461,38.9199925992107,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_490">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_488">
+                <coordinates>-77.029029260786,38.9456153875198,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_491">
+            <name>ADW</name>
+            <Point id="geom_489">
+                <coordinates>-76.9864341978402,38.842416917249,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_492">
+            <name>ROBBERY</name>
+            <Point id="geom_490">
+                <coordinates>-77.0013011945264,38.9169957944253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_493">
+            <name>THEFT</name>
+            <Point id="geom_491">
+                <coordinates>-77.0275602007814,38.9025226191414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_494">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_492">
+                <coordinates>-77.0035864731238,38.8379844655146,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_495">
+            <name>ROBBERY</name>
+            <Point id="geom_493">
+                <coordinates>-77.0537512350905,38.9273796074473,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_496">
+            <name>THEFT</name>
+            <Point id="geom_494">
+                <coordinates>-77.0245833286279,38.9381486763106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_497">
+            <name>BURGLARY</name>
+            <Point id="geom_495">
+                <coordinates>-76.9871543282568,38.8861213203568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_498">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_496">
+                <coordinates>-77.0469718582178,38.9213649713953,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_499">
+            <name>SEX ABUSE</name>
+            <Point id="geom_497">
+                <coordinates>-77.0501240875597,38.901342904848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_500">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_498">
+                <coordinates>-77.0304025484153,38.9874893318211,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_501">
+            <name>BURGLARY</name>
+            <Point id="geom_499">
+                <coordinates>-77.0198754831408,38.9569410664725,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_502">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_500">
+                <coordinates>-77.0955497848552,38.9393737918616,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_503">
+            <name>BURGLARY</name>
+            <Point id="geom_501">
+                <coordinates>-76.9883096634892,38.8957768974169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_504">
+            <name>BURGLARY</name>
+            <Point id="geom_502">
+                <coordinates>-77.0234565685131,38.8998118590038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_505">
+            <name>ADW</name>
+            <Point id="geom_503">
+                <coordinates>-76.9725866050647,38.8561281712461,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_506">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_504">
+                <coordinates>-76.9657077880634,38.8548413881805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_507">
+            <name>ADW</name>
+            <Point id="geom_505">
+                <coordinates>-77.0311118521092,38.9275817873411,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_508">
+            <name>THEFT</name>
+            <Point id="geom_506">
+                <coordinates>-77.0005343636115,38.8273069173526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_509">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_507">
+                <coordinates>-76.9936083580318,38.9399783627048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_510">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_508">
+                <coordinates>-76.9704331547257,38.867802415068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_511">
+            <name>BURGLARY</name>
+            <Point id="geom_509">
+                <coordinates>-77.0416588003346,38.9152043036348,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_512">
+            <name>ADW</name>
+            <Point id="geom_510">
+                <coordinates>-76.988001866712,38.9074159436032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_513">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_511">
+                <coordinates>-77.0423603722592,38.9243107661936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_514">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_512">
+                <coordinates>-77.069756200091,38.9362871236069,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_515">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_513">
+                <coordinates>-76.9728127231654,38.8730997949661,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_516">
+            <name>ADW</name>
+            <Point id="geom_514">
+                <coordinates>-76.9869060978983,38.9001990096318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_517">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_515">
+                <coordinates>-76.9771110689991,38.9026699571831,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_518">
+            <name>ROBBERY</name>
+            <Point id="geom_516">
+                <coordinates>-77.0120809016616,38.8302503446296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_519">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_517">
+                <coordinates>-77.0209128818601,38.8853198443438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_520">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_518">
+                <coordinates>-77.0020462699708,38.9407368487502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_521">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_519">
+                <coordinates>-76.9989772888117,38.8961169806448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_522">
+            <name>BURGLARY</name>
+            <Point id="geom_520">
+                <coordinates>-76.9905950115513,38.8584703579351,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_523">
+            <name>THEFT</name>
+            <Point id="geom_521">
+                <coordinates>-77.0385524567556,38.9018983264712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_524">
+            <name>THEFT</name>
+            <Point id="geom_522">
+                <coordinates>-77.0107307752505,38.902215883819,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_525">
+            <name>THEFT</name>
+            <Point id="geom_523">
+                <coordinates>-76.9931400297491,38.922217051454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_526">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_524">
+                <coordinates>-77.0044502280763,38.8477931556884,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_527">
+            <name>ROBBERY</name>
+            <Point id="geom_525">
+                <coordinates>-77.0314242715379,38.9111274310568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_528">
+            <name>THEFT</name>
+            <Point id="geom_526">
+                <coordinates>-77.0336435933797,38.9007698856709,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_529">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_527">
+                <coordinates>-77.0399190469888,38.9118670404811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_530">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_528">
+                <coordinates>-76.9970589319107,38.8775225831578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_531">
+            <name>THEFT</name>
+            <Point id="geom_529">
+                <coordinates>-77.0540052694073,38.9257039435118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_532">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_530">
+                <coordinates>-77.0408689288328,38.9201966051479,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_533">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_531">
+                <coordinates>-77.0240194834481,38.9014653130943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_534">
+            <name>THEFT</name>
+            <Point id="geom_532">
+                <coordinates>-77.0375066429352,38.9096433423823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_535">
+            <name>ROBBERY</name>
+            <Point id="geom_533">
+                <coordinates>-76.9824602204656,38.8999767367049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_536">
+            <name>BURGLARY</name>
+            <Point id="geom_534">
+                <coordinates>-77.0194146597092,38.9096407115823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_537">
+            <name>BURGLARY</name>
+            <Point id="geom_535">
+                <coordinates>-76.9338381333171,38.8752715700324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_538">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_536">
+                <coordinates>-76.9306852182462,38.9015598240325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_539">
+            <name>ROBBERY</name>
+            <Point id="geom_537">
+                <coordinates>-76.9519689172347,38.8956392387768,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_540">
+            <name>THEFT</name>
+            <Point id="geom_538">
+                <coordinates>-77.0399190469888,38.9118670404811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_541">
+            <name>THEFT</name>
+            <Point id="geom_539">
+                <coordinates>-77.0399190469888,38.9118670404811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_542">
+            <name>THEFT</name>
+            <Point id="geom_540">
+                <coordinates>-76.9418057736728,38.9104819358584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_543">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_541">
+                <coordinates>-77.0128136595351,38.9517496886868,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_544">
+            <name>BURGLARY</name>
+            <Point id="geom_542">
+                <coordinates>-76.9854695167591,38.8790747631997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_545">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_543">
+                <coordinates>-77.0198302226471,38.9191855358788,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_546">
+            <name>ADW</name>
+            <Point id="geom_544">
+                <coordinates>-76.9989245193633,38.8599301243437,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_547">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_545">
+                <coordinates>-77.0229423475296,38.9777954900626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_548">
+            <name>THEFT</name>
+            <Point id="geom_546">
+                <coordinates>-77.0365228399843,38.9100131368313,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_549">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_547">
+                <coordinates>-77.0308661715527,38.93332887184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_550">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_548">
+                <coordinates>-76.9914951141188,38.8851740353719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_551">
+            <name>BURGLARY</name>
+            <Point id="geom_549">
+                <coordinates>-77.024304888012,38.9260070869402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_552">
+            <name>BURGLARY</name>
+            <Point id="geom_550">
+                <coordinates>-76.9899420002242,38.9026384637038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_553">
+            <name>THEFT</name>
+            <Point id="geom_551">
+                <coordinates>-77.0365300370028,38.9080255559671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_554">
+            <name>THEFT</name>
+            <Point id="geom_552">
+                <coordinates>-77.0279546326207,38.9556823952259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_555">
+            <name>STOLEN AUTO</name>
+            <Point id="geom_553">
+                <coordinates>-76.9926493582409,38.8927922440636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_556">
+            <name>ADW</name>
+            <Point id="geom_554">
+                <coordinates>-77.0441595424981,38.923636165246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_557">
+            <name>THEFT</name>
+            <Point id="geom_555">
+                <coordinates>-77.0547173685401,38.9014387533984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_558">
+            <name>THEFT</name>
+            <Point id="geom_556">
+                <coordinates>-77.0215992023886,38.8770900215861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_559">
+            <name>THEFT</name>
+            <Point id="geom_557">
+                <coordinates>-77.0288635866528,38.8952352444017,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_560">
+            <name>ROBBERY</name>
+            <Point id="geom_558">
+                <coordinates>-77.0379107028794,38.9338563072631,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_561">
+            <name>THEFT</name>
+            <Point id="geom_559">
+                <coordinates>-77.047069472344,38.9188952430718,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_562">
+            <name>THEFT F/AUTO</name>
+            <Point id="geom_560">
+                <coordinates>-77.0402149250593,38.9265409701304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_563">
+            <name>BURGLARY</name>
+            <Point id="geom_561">
+                <coordinates>-76.9880421030757,38.8569621141509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_564">
+            <name>THEFT</name>
+            <Point id="geom_562">
+                <coordinates>-77.0416676609037,38.9118678373641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_565">
+            <name>BURGLARY</name>
+            <Point id="geom_563">
+                <coordinates>-77.0273325674157,38.9551343048681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_566">
+            <name>ADW</name>
+            <Point id="geom_564">
+                <coordinates>-76.9984542367943,38.839071056405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_567">
+            <name>THEFT</name>
+            <Point id="geom_565">
+                <coordinates>-76.9772595680294,38.884556048063,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
