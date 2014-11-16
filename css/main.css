@@ -2,11 +2,21 @@ body { margin:0; padding:0; font-family: 'Open Sans', sans-serif;}
 
 header{background-color: #D16E50; width: 100%; box-sizing: border-box; color: #fff; padding: 15px 20px; border-bottom: 6px #D7DD9B solid;}
 header h1{font-size: 1.2em; letter-spacing: .1em; display: inline}
-header a{float: right; padding-right: 25px; color: #fff; text-decoration: none;}
+header a{float: right; padding-right: 15px; color: #fff; text-decoration: none;}
 
-
+input:focus {outline:none;}
 .top-input{width: 100%; box-sizing: border-box; border: 1px #31383A solid; padding: 10px 7px; font-size: 1em; background-image: url("../img/search.png"); background-repeat: no-repeat; background-position: right;}
 
+
+.buttons{width: 100%;}
+.btn-select{width: 62px; height: 62px;
+	border-radius: 10px; background-color: #3C62AE; background-repeat: no-repeat; background-size: 65%; background-position: center;
+	position: fixed; bottom: 15px;
+}
+.btn-select:hover{opacity: .8; cursor: pointer;}
+
+.btn-1{background-image: url("../img/list-btn.png");}
+.btn-2{background-image: url("../img/report-btn.png");}
 
 
 .map-container{width: 100%; margin: 0 auto;}
