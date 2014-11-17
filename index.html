@@ -14,21 +14,119 @@
 
   </head>
   <body>
+    <div class="overlay hidden">
+    </div>
 
     <header>
+      <img class="logo" src="img/sm-logo-head.png">
       <h1>JUSTICE CAT!</h1>
       <a href="#">About</a>
     </header>
 
+
+    <div class="modal submit-form js-page-1 hidden">
+      <div class="question">
+        <p>Have you been a witness to or been the victim of any of the following:</p>
+      </div>
+      <div class="answers">
+        <span>
+          Verbal Harassment <img class="is-active js-check" src="img/check-box-d.png"><img class="hidden js-check" src="img/check-box-s.png">
+        </span>
+        <span>
+          Sexual Harassment <img class="is-active js-check" src="img/check-box-d.png"><img class="hidden js-check" src="img/check-box-s.png">
+        </span>
+        <span>
+          Violence or Intimidation <img class="is-active js-check" src="img/check-box-d.png"><img class="hidden js-check" src="img/check-box-s.png">
+        </span>
+        <span>
+          Stalking <img class="is-active js-check" src="img/check-box-d.png"><img class="hidden js-check" src="img/check-box-s.png">
+        </span>
+        <span>
+          Theft <img class="is-active js-check" src="img/check-box-d.png"><img class="hidden js-check" src="img/check-box-s.png">
+        </span>
+      </div>
+      <div class="large-btn js-page-1-btn">
+        Next
+      </div>
+    </div>
+
+    <div class="modal submit-form js-page-2 hidden">
+      <div class="question">
+        <p>Location and time information</p>
+      </div>
+      <div class="answers">
+        <span>
+          November 16, 2014
+        </span>
+        <span>
+          6:25pm
+        </span>
+        <span>
+          My Current Location
+        </span>
+        <span class="indented">
+          Poor Lighting <img class="is-active js-check" src="img/check-box-d.png"><img class="hidden js-check" src="img/check-box-s.png">
+        </span>
+      </div>
+      <div class="large-btn js-page-2-btn">
+        Submit
+      </div>
+    </div>
+
+    <div class="modal submit-form js-page-3 hidden">
+      <div class="question">
+        <p>Thank you for submitting a report!</p>
+      </div>
+      <div class="answers">
+        <h2>High paw!</h2>
+        <img class="cat" src="img/justice-cat-paw.png">
+      </div>
+    </div>
+
+
+    <div class="modal submit-form js-page-filter hidden">
+      <div class="question">
+        <p>Filter your map by</p>
+      </div>
+      <div class="answers">
+        <span>
+          Verbal Harassment <img class="hidden js-check" src="img/check-box-d.png"><img class="js-check" src="img/check-box-s.png">
+        </span>
+        <span>
+          Sexual Harassment <img class="hidden js-check" src="img/check-box-d.png"><img class="js-check" src="img/check-box-s.png">
+        </span>
+        <span>
+          Violence or Intimidation <img class="hidden js-check" src="img/check-box-d.png"><img class="js-check" src="img/check-box-s.png">
+        </span>
+        <span>
+          Stalking <img class="hidden js-check" src="img/check-box-d.png"><img class="js-check" src="img/check-box-s.png">
+        </span>
+        <span>
+          Theft <img class="hidden js-check" src="img/check-box-d.png"><img class="js-check" src="img/check-box-s.png">
+        </span>
+        <span>
+          Poor Lighting <img class="hidden js-check" src="img/check-box-d.png"><img class="js-check" src="img/check-box-s.png">
+        </span>
+      </div>
+      <div class="large-btn js-remove-modals">
+        Apply
+      </div>
+    </div>
+
+
+
+
+
     <input class="top-input" type="text" value="My Location">
     <div class="buttons">
-      <div class="btn-select btn-1">
+      <div class="btn-select btn-1 js-filter-map">
       </div>
-      <div class="btn-select btn-2">
+      <div class="btn-select btn-2 js-submit-report">
       </div>
     </div>
     <div class="map-container">
-      <div id='map'></div>
+      <div id='map' class="hidden map2"></div>
+      <div class="map1"></div>
     </div>
 
 
@@ -72,6 +170,9 @@
           });
       });
     </script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="js/main.js"></script>
+
   </body>
 
 </html>
